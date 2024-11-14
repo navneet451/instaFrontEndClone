@@ -1,2 +1,2 @@
 # project
-I am Navneet Am working on Git & Github.
+I am working on insta frontend clone.
